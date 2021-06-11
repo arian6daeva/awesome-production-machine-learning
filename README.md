@@ -31,7 +31,7 @@ This repository contains a curated list of awesome open source libraries that wi
         This <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY">10 minute video</a> provides an overview of the motivations for machine learning operations as well as a high level overview on some of the tools in this repo.
     </td>
     <td width="70%">
-        <a href="https://www.youtube.com/watch?v=Ynb6X0KZKxY"><img src="images/video.png"></a>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ynb6X0KZKxY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </td>
   </tr>
 </table>
