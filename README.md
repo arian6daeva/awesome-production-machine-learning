@@ -49,10 +49,10 @@ This repository contains a curated list of awesome open source libraries that wi
   </tr>
   <tr>
     <td width="30%">
-         Also check out the <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/">Awesome Artificial Intelligence Guidelines</a> List, where we aim to map the landscape of "Frameworks", "Codes of Ethics", "Guidelines", "Regulations", etc related to Artificial Intelligence.
+         Also check out the <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/" target="_blank">Awesome Artificial Intelligence Guidelines</a> List, where we aim to map the landscape of "Frameworks", "Codes of Ethics", "Guidelines", "Regulations", etc related to Artificial Intelligence.
     </td>
     <td width="70%">
-        <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/"><img src="images/guidelines.jpg"></a>
+        <a href="https://github.com/EthicalML/awesome-artificial-intelligence-guidelines/" target="_blank"><img src="images/guidelines.jpg"></a>
     </td>
   </tr>
 </table>
